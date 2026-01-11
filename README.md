@@ -22,8 +22,8 @@ It includes data cleaning, calculations, pivot tables, and an interactive dashbo
 - Interactive slicers (Month, Year, Region, Category)<br>
 <hr>
 <b> 📁 File Structure</b><br>
-- Sales_Dashboard.xlsx → Main project file<br>
-- screenshots/ → Dashboard images<br>
+-Main File-Sales&Profit-exel.xlsx<br>
+this file have three sheets frist-sales_data,second-pivot(table) and Dashboard.
 <hr>
 <b>🎯 Outcome</b><br>
 This dashboard helps management track sales performance and make data-driven decisions.
