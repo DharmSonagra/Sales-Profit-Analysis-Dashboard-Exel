@@ -7,23 +7,23 @@ Welcome to the sales&profit Data Analysis Project! This Project Created using Ex
 This project analyzes sales data using Microsoft Excel.  
 It includes data cleaning, calculations, pivot tables, and an interactive dashboard.
 <hr>
-<b>🛠 Tools & Skills Used</b>
-- Microsoft Excel
-- Pivot Tables & Pivot Charts
-- Slicers & Filters
-- Excel formulas (SUMIFS, MONTH, YEAR, TEXT)
-- Data Analysis & Visualization
+<b>🛠 Tools & Skills Used</b><br>
+- Microsoft Excel<br>
+- Pivot Tables & Pivot Charts<br>
+- Slicers & Filters<br>
+- Excel formulas (SUMIFS, MONTH, YEAR, TEXT)<br>
+- Data Analysis & Visualization<br>
 <hr>
- <b>📊 Dashboard Features</b>
-- Monthly Sales Trend
-- Top 5 Products by Sales
-- Region-wise Sales Analysis
-- Category-wise Profit Analysis
-- Interactive slicers (Month, Year, Region, Category)
+ <b>📊 Dashboard Features</b><br>
+- Monthly Sales Trend<br>
+- Top 5 Products by Sales<br>
+- Region-wise Sales Analysis<br>
+- Category-wise Profit Analysis<br>
+- Interactive slicers (Month, Year, Region, Category)<br>
 <hr>
-<b> 📁 File Structure</b>
-- Sales_Dashboard.xlsx → Main project file
-- screenshots/ → Dashboard images
+<b> 📁 File Structure</b><br>
+- Sales_Dashboard.xlsx → Main project file<br>
+- screenshots/ → Dashboard images<br>
 <hr>
-<b>🎯 Outcome</b>
+<b>🎯 Outcome</b><br>
 This dashboard helps management track sales performance and make data-driven decisions.
